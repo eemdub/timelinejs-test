@@ -3,7 +3,7 @@ title: Example Page
 nav: Example
 nav_order: 1
 # Add timelinejs
-timeline-json: timelinejs-test-csv
+timeline: timelinejs-test-csv
 ---
 
 Content can be written in Markdown above a timeline.
