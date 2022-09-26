@@ -1,7 +1,7 @@
 ---
 title: MU Timeline
-nav: About
-nav_order: 4
+nav: MU
+nav_order: 3
 layout: page-full-width
 # add TimelineJS
 timeline: timelinejs-test-csv
