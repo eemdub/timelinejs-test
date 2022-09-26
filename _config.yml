@@ -9,12 +9,12 @@
 #######
 # SITE SETTINGS
 #
-title: timelinejs-template
-description: "basic template for self-hosted TimelineJS"
-year: 2020
-author: evan will 
+title: "liz's custom timelinejs test"
+description: "trying to learn how to customize timelinejs"
+year: 2022
+author: liz warz  
 # add search box to navbar, true/false
-search: false
+search: true
 
 #######
 # SITE URLs
